@@ -53,7 +53,7 @@ function MyButton({ id, pwd }) {
                 </h2>
                 <HelloMessage />
 
-                <div class="list-item">
+                <div className="list-item">
                     <h1>[반복문] 예제.</h1>
                     <h2>리액트가 다루는 언어들 - 페이지 내 기본선언</h2>
                     <ul>
